@@ -150,7 +150,7 @@ HTML
                 <dt><strong>Faculty Advisor: Dr. Sarah Jenkins</strong></dt>
                 <dd>Head of the Computer Science Department and mentor for open-source project initiatives.</dd>
 
-                <dt><strong>Club President: Alex Johnson</strong></dt>
+                <dt><strong>Club President: Allen Macanige</strong></dt>
                 <dd>Senior Computer Science student with a focus on web architecture and peer-to-peer tutoring.</dd>
 
                 <dt><strong>Technical Lead: Priya Sharma</strong></dt>
